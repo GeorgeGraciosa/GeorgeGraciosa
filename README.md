@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou o George Graciosa, iniciante na área de desenvolvimento front-end<br><br> Meu foco é construir interfaces acessíveis, responsivas e com uma ótima experiência de usuário, sempre buscando crescer como profissional e contribuir com projetos reais.</p>
+<p align="left">Olá! Eu sou o George Graciosa, iniciante na área de desenvolvimento front-end<br><br> Meu foco é construir interfaces acessíveis, responsivas e com uma ótima experiência de usuário, sempre buscando crescer como profissional e contribuir com projetos que impactam o mundo</p>
 
 ###
 
